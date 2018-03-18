@@ -16,3 +16,9 @@ We can use git diff command to compare the working directory and the staging
 area in detail, and use git diff --staged to compare the staging area to the
 repository. These comparisons can help you be clear about what changes you will
 commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches would be helpful to track histories of different directions. We can do
+experimental things safely in new branches without affect the main or original
+branch's development.
