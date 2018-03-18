@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository will create an empty repository for the working
+directory to establish a version control system for it. And that's why you need
+to do it, you need to create or initialize a Git repository manually on demand.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Staging area is much more like a temporary place for changes to be operated or
+committed. It plays as the intermediate role between the working directory and
+the repository and give you control about what contents from the working directory
+can be version controlled into the repository.
