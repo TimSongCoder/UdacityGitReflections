@@ -9,3 +9,10 @@ Staging area is much more like a temporary place for changes to be operated or
 committed. It plays as the intermediate role between the working directory and
 the repository and give you control about what contents from the working directory
 can be version controlled into the repository.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+We can use git diff command to compare the working directory and the staging
+area in detail, and use git diff --staged to compare the staging area to the
+repository. These comparisons can help you be clear about what changes you will
+commit.
