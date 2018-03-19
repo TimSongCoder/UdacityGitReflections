@@ -22,3 +22,7 @@ organized? How would branches help?
 Branches would be helpful to track histories of different directions. We can do
 experimental things safely in new branches without affect the main or original
 branch's development.
+
+How do the diagrams help you visualize the branch structure?
+Draw the branches diagram make commits of different branches clear, which helps
+you understand the Git branch model.
