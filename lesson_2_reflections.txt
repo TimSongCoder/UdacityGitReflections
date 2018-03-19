@@ -26,3 +26,8 @@ branch's development.
 How do the diagrams help you visualize the branch structure?
 Draw the branches diagram make commits of different branches clear, which helps
 you understand the Git branch model.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+Merging two branches together results in combing the work of the two branches.
+Using the way you do in the diagram can make branch merging clear in commits level.
