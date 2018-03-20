@@ -31,3 +31,8 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 Merging two branches together results in combing the work of the two branches.
 Using the way you do in the diagram can make branch merging clear in commits level.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The upside is that the Git's automatic merging can eliminate many unnecessary
+manually merging work, which can facilitate the collaborative workflow;
+the downside is the man initiates the merge may not capture or notice the changes being merged.
