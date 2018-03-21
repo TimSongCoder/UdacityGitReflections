@@ -7,3 +7,12 @@ stay up-to-date with your remote repository?
 In some cases, the remote repository might add some changes which you do not
 want to adopt. Pulling changes manually gives you most of the control on your
 local repository.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+Branches belong to repository, while forks and clones operates on repository.
+Forks are repository cloning occurred exclusively in the context of GitHub, you
+use fork on GitHub to clone someone other's repository to your profile.
+Clones are merely meaning to clone a repository into a new directory, you typically
+use clones to clone a repository from remote to your local machine.
+You create new branches to introduce multiple versions within your repository.
