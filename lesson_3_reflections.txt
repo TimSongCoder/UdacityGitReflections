@@ -16,3 +16,7 @@ use fork on GitHub to clone someone other's repository to your profile.
 Clones are merely meaning to clone a repository into a new directory, you typically
 use clones to clone a repository from remote to your local machine.
 You create new branches to introduce multiple versions within your repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It facilitates the Git offline working feature, which let you can work with git
+without internet connection for a while.
