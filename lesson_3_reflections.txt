@@ -20,3 +20,9 @@ You create new branches to introduce multiple versions within your repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It facilitates the Git offline working feature, which let you can work with git
 without internet connection for a while.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+Without Git or GitHub, we would need to copy and send projects to colleagues and
+compare changes manually. The process is much more straight forward but it needs
+more labor work and lacks a continuous version history record.
