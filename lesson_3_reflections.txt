@@ -34,3 +34,6 @@ feature on and on, which incurs some complexities too. On the other side, make
 changes directly in master get rid of multiple branches syncing problem but lacks
 flexibility, you always want to keep your master branch with a production-level
 quality to be exposed.
+Make changes in a separate branch within your fork repository have another benefit,
+giving you ease to incorporate changes within the master branch from original
+repository.
